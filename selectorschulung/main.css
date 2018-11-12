@@ -189,6 +189,10 @@ input, button {
 
 .container .question input {
     width: 75%;
+    outline: none;
+}
+
+.container .question input:focus {
     outline: 2px solid #00AFFE;
 }
 

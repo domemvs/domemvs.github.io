@@ -189,6 +189,7 @@ input, button {
 
 .container .question input {
     width: 75%;
+    outline: 2px solid #00AFFE;
 }
 
 pre[class*="language-"] {
